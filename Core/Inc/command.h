@@ -17,3 +17,4 @@ uint8_t Command_GetCommand(uint8_t *command);
 uint16_t Command_Write(const uint8_t *data, uint16_t length);
 
 #endif /* __COMMAND_H */
+// Git reset demo
